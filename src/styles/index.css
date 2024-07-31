@@ -1,0 +1,82 @@
+.card-logo img {
+    width: 200px;
+    margin-top: 20px;
+}
+
+body {
+    -webkit-user-select: none;
+-khtml-user-select: none;
+-moz-user-select: none;
+-ms-user-select: none;
+-o-user-select: none;
+user-select: none;
+    color: white;
+    font-family: "Montserrat", sans-serif;
+    text-align: center;
+    align-items: center;
+    background: #111111;
+}
+
+*{ 
+    align-items: center;
+}
+
+
+.main-card {
+    border-radius: 20px;
+    margin-top: 150px;
+    margin-left:auto;
+    margin-right:auto;
+    height: 600px;
+    width: 35%;
+}
+
+.nickname h1 {
+    font-size: 40px;
+}
+
+.skills-name {
+    font-size: 13px;
+    transform: translate(0px,-20px);
+}
+
+.contacts a{
+    text-decoration: none;
+    color: white;
+}
+
+.contacts {
+    margin-top: 30px;
+    font-size: 20px;
+}
+
+.sills {
+    margin-top: 270px;
+
+}
+.sills i {
+    margin-right: 10px;
+}
+
+.footer {
+  background-color: #111111;
+   position: fixed;
+   right: 0;
+   bottom: 0;
+   text-align: center; 
+   width: 100%;   
+   font-size: 15px;
+  color: #fafaff;  
+  }
+  
+  
+  
+  .header {
+    margin-top: 20px;
+  }
+  
+  
+  
+.header p {
+    text-decoration: underline;
+}
